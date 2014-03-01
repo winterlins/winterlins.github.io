@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[WinterLin's Blog]]></title>
+  <link href="http://winterlins.github.io/atom.xml" rel="self"/>
+  <link href="http://winterlins.github.io/"/>
+  <updated>2014-03-01T16:51:45+08:00</updated>
+  <id>http://winterlins.github.io/</id>
+  <author>
+    <name><![CDATA[WinterLin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
