@@ -4,7 +4,7 @@
 
 url: http://winterlins.github.io
 title: WinterLin's Blog
-subtitle: iOS Dev
+subtitle: iOS Coder
 author: WinterLin
 simple_search: http://google.com/search
 description:
@@ -90,8 +90,12 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+#disqus_short_name:
+#disqus_show_comment_count: false
+
+# Duoshuo Comments
+duoshuo_show_comment_count: true
+duoshuo_name: winterlins
 
 # Google Analytics
 google_analytics_tracking_id:
