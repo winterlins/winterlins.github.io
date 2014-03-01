@@ -104,4 +104,6 @@ google_analytics_tracking_id:
 #facebook_like: false
 
 #jiathis
-jiathis:true
+jiathis: true
+
+default_asides: [asides/recent_posts.html, custom/asides/category_list.html, custom/asides/tags.html]
