@@ -4,7 +4,7 @@
 
 url: http://winterlins.github.io
 title: WinterLin's Blog
-subtitle: iOS Coder
+subtitle: 技术源于积累，记录学习中的点滴
 author: WinterLin
 simple_search: http://google.com/search
 description:
@@ -107,3 +107,6 @@ google_analytics_tracking_id:
 jiathis: true
 
 default_asides: [asides/recent_posts.html, custom/asides/category_list.html, custom/asides/tags.html, custom/asides/blogroll.html]
+
+# Post License
+post_license: true
